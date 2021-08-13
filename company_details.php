@@ -282,6 +282,7 @@ var e = document.getElementById("dept");
 text1=e.value;
 
 var f = document.getElementById("backlogs");
+
 //var text2 = f.options[e.selectedIndex].text;
 text2=f.value;
 
